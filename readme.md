@@ -1,4 +1,4 @@
-### FS Exercises
+<!-- ### FS Exercises
 fs docs - https://nodejs.org/api/fs.html
 
 ## Challenge 1:
@@ -17,4 +17,4 @@ Create a new folder within the challenge4 folder called "copyfolder". Then copy 
 Replace all of the "-"'s inside the text file with spaces.
 
 ## Challenge 6:
-Display all files that end with ".txt". Don't hard code the file names!
+Display all files that end with ".txt". Don't hard code the file names! -->
